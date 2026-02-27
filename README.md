@@ -1,4 +1,4 @@
-# Привет, я ladev 👋
+# Привет, я hereuknow 👋
 
 ### 🐍 Python Backend Developer
 
@@ -37,4 +37,4 @@
 
 ---
 
-<!-- Добавьте ссылки на соцсети или сайт по желанию -->
+https://t.me/hereuknow_rating
