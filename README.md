@@ -1,40 +1,41 @@
-# Привет, я hereuknow 👋
+# Hi, I'm hereuknow 👋
 
 ### 🐍 Python Backend Developer
 
-Люблю создавать бэкенд-решения с помощью **Python** и современных технологий. Уже реализовано более **30 проектов на фрилансе** - от чат-ботов до сложных веб-приложений.
+I enjoy building backend solutions with **Python** and modern technologies.  
+I've successfully completed **30+ freelance projects** — from Telegram bots to complex web applications.
 
 ---
 
-## 💡 Мои инструменты
+## 💡 Tech Stack
 
-- **Python**: FastAPI, Tortoise ORM, Django, Aiogram (и ещё множество)
-- **Docker**: для быстрой и надёжной доставки решений
-
----
-
-## 🚀 Мой подход
-
-> **"Люблю улучшать этот мир с помощью кода"**
-
-Каждый проект для меня - это возможность сделать что-то полезное и интересное. Я ценю чистый, читаемый код и автоматизацию процессов.
+- **Python**: FastAPI, Tortoise ORM, Django, Aiogram, and more
+- **Docker**: for reliable and efficient deployment
 
 ---
 
-## 📈 Чем могу быть полезен?
+## 🚀 My Approach
 
-- Разработка REST API и Telegram-ботов
-- Проектирование архитектуры backend-систем
-- Интеграция с внешними сервисами
-- Работа с базами данных и Docker-окружением
+> **"I enjoy making the world better through code."**
 
----
-
-## 🤝 Давайте знакомиться!
-
-Открыт к новым проектам, сотрудничеству и обмену опытом.  
-Пишите, если хотите обсудить идеи или задать вопрос!
+Every project is an opportunity to create something useful and meaningful.  
+I value clean, maintainable code and process automation.
 
 ---
 
-https://t.me/hereuknow_rating
+## 📈 What I Can Help With
+
+- REST API and Telegram bot development
+- Backend architecture design
+- Third-party service integrations
+- Database management and Docker environments
+
+---
+
+## 🤝 Let's Connect!
+
+I'm open to new projects, collaborations, and networking.  
+Feel free to reach out if you'd like to discuss an idea or ask a question.
+
+Telegram: https://t.me/hereuknow_rating
+Portfolio: https://hereuknow.ru 
